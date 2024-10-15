@@ -1,2 +1,11 @@
 - Daniel is editing this in the main branch
 - Making this edit in the Daniel-Branch
+
+- Will is making an edit
+- Some common reasons for merge conflicts:
+ Multiple people concurrently working on a file. 
+ 'Diverging Branches' due to a lack of merging. 
+- Merge conflics affect development in a myriad of ways:
+slowing down development
+breaking code
+teams fighting
